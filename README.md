@@ -5,6 +5,8 @@
 Financial Fraud Detection is the process of monitoring transactions and customer behavior to identify and stop fraudulent activity. According to Juniper Research's 2022 study about online payment fraud, globally payment fraud are noted to exceed $343 billion between 2023 and 2027.
 Traditionally, firms have used fraud detection and prevention to curb company financial losses and maintain positive customer relations.
 
+Dataset: https://www.kaggle.com/datasets/ealaxi/paysim1
+
 # Common Types of Fraud:
 
 There are different type of fraut and constanlty emerging. Some fraud typologies persist because they exploit weaknesses in a company's processes and systems. Here are some common type of frauds.
